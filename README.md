@@ -24,23 +24,24 @@
 - 🌱 Equiping myself in Back-End dev
 - 📫 How to reach me:
 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='white'>](https://github.com/Michaelndula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/michael-ndula-bb57ab1b4/)
-    
- [![Michael ndula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaelndula)](https://github.com/Michaelndula/github-readme-stats)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='#fff'>](https://github.com/Michaelndula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/michael-ndula-bb57ab1b4/)
  
  <a href="https://github.com/Michaelndula/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michaelndula&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Michael Ndula's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michaelndula&show_icons=true&include_all_commits=true&theme=material-Lighter" alt="Michael Ndula's github stats" />
 </a>
 <a href="https://github.com/Michaelndula/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelndula&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelndula&layout=compact&theme=material-Lighter" />
 </a>
 
 <a href="https://github.com/Michaelndula/github-readme-stats">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Disney-clone&theme=material-Lighter" />
+</a>
+
+<a href="https://github.com/Michaelndula/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Netflix-clone&theme=material-Lighter" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Pop-portfolio-web&theme=material-palenight" />
+
+<a href="https://github.com/Michaelndula/Michaelndula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Pop-portfolio-web&theme=material-Lighter" />
 </a>
 
