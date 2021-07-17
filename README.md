@@ -1,4 +1,6 @@
-### Hi there 👋 I am michael ndula
+### Hi there 👋 I am michael ndula a.k.a michaelangelo
+
+(https://static.wikia.nocookie.net/teenage-mutant-ninja-turtles-2012/images/9/94/Michelangelo.png/revision/latest?cb=20170218203342)
 
 
 - 🔭 I’m currently working on ...
