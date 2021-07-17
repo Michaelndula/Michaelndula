@@ -1,4 +1,4 @@
-### Hi there 👋 I am michael ndula a.k.a michelangelo(Troublemikey)
+### Hi there 👋 I am michael ndula a.k.a Troublemikey
 ### Always ready to attack
 
 ![](https://static.wikia.nocookie.net/teenage-mutant-ninja-turtles-2012/images/9/94/Michelangelo.png/revision/latest?cb=20170218203342)
