@@ -1,7 +1,7 @@
-### Hi there 👋 I am michael ndula a.k.a Troublemikey
+### Hi there 👋 I am michael ndula a.k.a Samurai
 ### Always ready to attack
 
-![](https://static.wikia.nocookie.net/teenage-mutant-ninja-turtles-2012/images/9/94/Michelangelo.png/revision/latest?cb=20170218203342)
+![](https://c4.wallpaperflare.com/wallpaper/544/111/583/blood-armor-samurai-swords-wallpaper-preview.jpg)
 
 **Languages and Tools:**  
 
