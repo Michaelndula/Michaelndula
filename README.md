@@ -1,7 +1,7 @@
-### Hi there 👋 I am michael ndula a.k.a Samurai
+### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
 ### Always ready to attack
 
-![](https://c4.wallpaperflare.com/wallpaper/544/111/583/blood-armor-samurai-swords-wallpaper-preview.jpg)
+![](https://i0.wp.com/www.teenagemutantninjaturtles.com/wp-content/uploads/2018/05/Michelangelo.png?fit=1024%2C573&ssl=1)
 
 **Languages and Tools:**  
 
