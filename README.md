@@ -1,7 +1,7 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
-### Always ready to attack
+### Currently I am doing the #100DaysofCode challenge with PHP
 
-![](https://i0.wp.com/www.teenagemutantninjaturtles.com/wp-content/uploads/2018/05/Michelangelo.png?fit=1024%2C573&ssl=1)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--Wur26HiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8qj1kbw7aif5r6nrpx5z.png)
 
 **Languages and Tools:**  
 
