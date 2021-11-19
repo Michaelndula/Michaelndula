@@ -1,7 +1,7 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
-### Currently I am doing the #100DaysofCode challenge with PHP
+### Currently Project AirBnB Clone
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--Wur26HiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8qj1kbw7aif5r6nrpx5z.png)
+![](https://github.com/Michaelndula/AirBnB_clone/raw/master/65f4a1dd9c51265f49d0.png?raw=true)
 
 **Languages and Tools:**  
 
