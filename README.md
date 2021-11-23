@@ -1,5 +1,5 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
-### Currently Project AirBnB Clone
+### Current Project AirBnB Clone
 
 ![](https://github.com/Michaelndula/AirBnB_clone/raw/master/65f4a1dd9c51265f49d0.png?raw=true)
 
