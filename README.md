@@ -1,7 +1,7 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
-### Current Project AirBnB Clone
+### Current Project NGOLab - NGO Management System
 
-![](https://github.com/Michaelndula/AirBnB_clone/raw/master/65f4a1dd9c51265f49d0.png?raw=true)
+![](https://s3.envato.com/files/389113894/1.png)
 
 **Languages and Tools:**  
 
