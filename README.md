@@ -22,9 +22,8 @@
 
 
 - 🔭 Skilled in Low-level-programming | C-programming
-- 🔭 Skilled in High-level-programming | Python | currently learning PHP
-- 🔭 Skilled in Front-End dev | Reactjs+Redux | HTML & CSS | Javascript
-- 🌱 I’m currently learning Software Engineering with Holberton School
+- 🔭 Skilled in High-level-programming | PHP
+- 🔭 Skilled in Front-End dev | Reactjs+Vue-JS | HTML & CSS | Javascript
 - 🌱 Equiping myself in Back-End dev
 - 📫 How to reach me:
 
