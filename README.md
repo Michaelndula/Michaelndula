@@ -1,7 +1,7 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
 ### Current Project NGOLab - NGO Management System
 
-<code><img height="30" src="https://s3.envato.com/files/389113894/1.png"></code>
+<code><img height="300" src="https://s3.envato.com/files/389113894/1.png"></code>
 
 **Languages and Tools:**  
 
