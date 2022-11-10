@@ -35,16 +35,3 @@
 <a href="https://github.com/Michaelndula/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelndula&layout=compact&theme=material-Lighter" />
 </a>
-
-<a href="https://github.com/Michaelndula/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Disney-clone&theme=material-Lighter" />
-</a>
-
-<a href="https://github.com/Michaelndula/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Netflix-clone&theme=material-Lighter" />
-</a>    
-
-<a href="https://github.com/Michaelndula/Michaelndula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaelndula&repo=Pop-portfolio-web&theme=material-Lighter" />
-</a>
-
