@@ -1,5 +1,5 @@
 ### Hi there 👋 I am michael ndula a.k.a Trouble Mikey
-### Current Project Tumsifu Sacco - Loan Management System
+### Current Project Loan Management System
 
 <code><img height="300" src="https://github.com/Michaelndula/PHP-projects-100daysofcode/blob/main/CodeIgniter-StudentManagementSystem-master/bootstrap3/images/13.PNG?raw=true"></code>
 
