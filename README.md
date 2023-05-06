@@ -25,6 +25,7 @@
 - 🔭 Skilled in High-level-programming | PHP
 - 🔭 Skilled in Front-End dev | Reactjs+Vue-JS | HTML & CSS | Javascript
 - 🌱 Equiping myself in Back-End dev
+- 🌱 currently learning Docker and Flutter
 - 📫 How to reach me:
 
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='#fff'>](https://github.com/Michaelndula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/michael-ndula-bb57ab1b4/)
