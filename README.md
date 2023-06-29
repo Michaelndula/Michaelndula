@@ -1,4 +1,4 @@
-### Hi there 👋 I am michael ndula Full-stack developer
+### Hi there 👋 I am a developer
 ### Current Project Loan Management System
 
 <code><img height="300" src="https://github.com/Michaelndula/PHP-projects-100daysofcode/blob/main/CodeIgniter-StudentManagementSystem-master/bootstrap3/images/13.PNG?raw=true"></code>
@@ -22,12 +22,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 
-
-- 🔭 Skilled in Low-level-programming | C-programming
-- 🔭 Skilled in High-level-programming | PHP
-- 🔭 Skilled in Front-End dev | Reactjs+Vue-JS | HTML & CSS | Javascript
-- 🌱 Equiping myself in Back-End dev
-- 🌱 currently learning Docker and Flutter
+- 🌱 currently learning Java Spring
 - 📫 How to reach me:
 
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color='#fff'>](https://github.com/Michaelndula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/michael-ndula-bb57ab1b4/)
