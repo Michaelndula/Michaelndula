@@ -14,7 +14,7 @@
 <code><img height="30" src="https://code.visualstudio.com/assets/branding/app-icon.png"></code>
 <code><img height="30" src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+*NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub
 
 
 - 🌱 currently learning Java Spring
